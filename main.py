@@ -268,5 +268,8 @@ async def api_answer(data: InputData):
 
 if __name__ == "__main__":
     import uvicorn # type: ignore
-    uvicorn.run(app, host="0.0.0.0", port=8000)  # Default port for FastAPI
+    import os
+
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)  # Default port for FastAPI
     # main()
