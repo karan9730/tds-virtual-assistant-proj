@@ -29,8 +29,17 @@ import html
 from google import genai
 from google.genai.types import GenerateContentConfig # type: ignore
 from fastapi.responses import JSONResponse # type: ignore
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or set specific allowed origins if needed
+    allow_credentials=True,
+    allow_methods=["*"],  # Needed for preflight (OPTIONS), GET, POST etc.
+    allow_headers=["*"],
+)
 
 class InputData(BaseModel):
     question: str
