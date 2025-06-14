@@ -1,0 +1,2409 @@
+{
+    "users": [
+        {
+            "id": 25148,
+            "username": "23f3004043",
+            "name": "Achyuta Sai Ghanta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004043/{size}/67652_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+        },
+        {
+            "id": 2588,
+            "username": "ashkhi",
+            "name": "Ashutosh Khidrapurkar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ashkhi/{size}/1316_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 16665,
+            "username": "22f3003237",
+            "name": "Harsh Bairagi",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003237/{size}/103230_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 15517,
+            "username": "23f1000318",
+            "name": "Asit Kumar Nayak ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000318/{size}/132746_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+        },
+        {
+            "id": 23837,
+            "username": "23f1000129",
+            "name": "Suyash Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000129/{size}/122013_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+        },
+        {
+            "id": 31631,
+            "username": "Karvy",
+            "name": "Karvy Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/karvy/{size}/67600_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 42247,
+            "username": "24f3004165",
+            "name": "Abhishek Singh Rajput",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/d6d6ee/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 35968,
+            "username": "MEENAKSHI_GUPTA",
+            "name": "MEENAKSHI GUPTA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/meenakshi_gupta/{size}/111087_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 19016,
+            "username": "Priyank",
+            "name": "Priyank Solanki ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/priyank/{size}/66833_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 16271,
+            "username": "22f3000680",
+            "name": "Krithika Kannan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000680/{size}/68407_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 9033,
+            "username": "siddharthghosh",
+            "name": "Siddharth",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/siddharthghosh/{size}/18449_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 12994,
+            "username": "21f3002439",
+            "name": "Amit kumar pandey",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002439/{size}/42182_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 25608,
+            "username": "23f3004014",
+            "name": "Prasad (Chopperla Venkata Satya Prasada Babu)",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004014/{size}/77325_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 36519,
+            "username": "ViDiT0705",
+            "name": "Vidit Thakkar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vidit0705/{size}/111625_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 21636,
+            "username": "22f3000982",
+            "name": "Ashish Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000982/{size}/78201_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 15552,
+            "username": "23f1001065",
+            "name": "Akash kumbhakar ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001065/{size}/62698_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 20612,
+            "username": "23f2001697",
+            "name": "jai tyagi",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001697/{size}/67345_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 14803,
+            "username": "aruntiwari",
+            "name": "Arun Kumar Tiwari",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aruntiwari/{size}/113680_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 22838,
+            "username": "23ds2000044",
+            "name": "Vishal",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/7feea3/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 6990,
+            "username": "KaLyan_Dath_18",
+            "name": "KaLyan Dath",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kalyan_dath_18/{size}/132770_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 24773,
+            "username": "23f1002997",
+            "name": "Akbar Ali ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002997/{size}/66858_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+        },
+        {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 22623,
+            "username": "23f2004759",
+            "name": "Sujal Raj Pradhan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004759/{size}/66893_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 13069,
+            "username": "Nitish007",
+            "name": "Nitish bhatt",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nitish007/{size}/14042_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 43586,
+            "username": "OMR_17",
+            "name": "OM Rajesh Bhambere",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/o/ccd318/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 15790,
+            "username": "22f3000940",
+            "name": "Ranadeep",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000940/{size}/120128_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 31290,
+            "username": "24F2000970_KARTIK_JA",
+            "name": "24F2000970 KARTIK JAIN",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2000970_kartik_ja/{size}/68167_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 12602,
+            "username": "broken_shadow",
+            "name": "Surya Pratap Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/broken_shadow/{size}/132972_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+        },
+        {
+            "id": 17483,
+            "username": "roy2003",
+            "name": "Shouvik Roy ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/roy2003/{size}/66760_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 12220,
+            "username": "Nelson",
+            "name": "Nelson Jochim DSouza",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nelson/{size}/66583_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 7742,
+            "username": "21f3000745",
+            "name": "Tanya kamboj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000745/{size}/638_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 1351,
+            "username": "krishnakvh1729",
+            "name": "Kannuri Venkata Hari Krishna ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/krishnakvh1729/{size}/262_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 15817,
+            "username": "22f3001832",
+            "name": "Aryan Kohli",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001832/{size}/97892_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 17654,
+            "username": "23f2000345",
+            "name": "Kshitij Pandey",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000345/{size}/84315_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 32407,
+            "username": "Sudhishnarayan",
+            "name": "Sudhish Narayan S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sudhishnarayan/{size}/66833_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 18074,
+            "username": "23f1001231",
+            "name": "PREMDEEP MAITI",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001231/{size}/67068_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 17649,
+            "username": "23f1002643",
+            "name": "Saini Nirmal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002643/{size}/66835_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 13078,
+            "username": "Saransh_Saini",
+            "name": "Saransh Saini",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 21929,
+            "username": "23f1001947",
+            "name": "amit_kulkarni",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 29417,
+            "username": "lifelonglearner",
+            "name": "Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lifelonglearner/{size}/67019_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 17759,
+            "username": "23f1001823",
+            "name": "SHOBHIT SHARMA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001823/{size}/66937_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 21754,
+            "username": "23f2004476",
+            "name": "Utkarsh Srivastava ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004476/{size}/78192_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 18297,
+            "username": "23f1002382",
+            "name": "Andrew David",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/{size}/68945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 35950,
+            "username": "Algsoch",
+            "name": "Vicky Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/algsoch/{size}/111675_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 16002,
+            "username": "22f3000819",
+            "name": "Shivaditya Bhattacharya",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000819/{size}/66738_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 7034,
+            "username": "21f2000709",
+            "name": "Pradeep Mondal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        },
+        {
+            "id": 26983,
+            "username": "24ds1000082_Vivek",
+            "name": "VivekS",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000082_vivek/{size}/69556_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+        }
+    ],
+    "primary_groups": [
+        {
+            "id": 294,
+            "name": "ds-students"
+        },
+        {
+            "id": 54,
+            "name": "faculty"
+        }
+    ],
+    "flair_groups": [
+        {
+            "id": 294,
+            "name": "ds-students",
+            "flair_url": null,
+            "flair_bg_color": "",
+            "flair_color": ""
+        },
+        {
+            "id": 54,
+            "name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000"
+        }
+    ],
+    "topic_list": {
+        "can_create_topic": true,
+        "more_topics_url": "/c/courses/tds-kb/34?page=2",
+        "per_page": 30,
+        "top_tags": [
+            "clarification",
+            "operational",
+            "tds-project-1",
+            "diploma-level",
+            "tds",
+            "graded-assignment",
+            "tds-project-2",
+            "week-2",
+            "tds-roe",
+            "miscellaneous",
+            "course-portal",
+            "error",
+            "week-5",
+            "term3-2024",
+            "week-6",
+            "week-4",
+            "term1-2025",
+            "graded-question",
+            "week-1",
+            "extra-resources",
+            "week-3",
+            "projects",
+            "oppe",
+            "guidelines",
+            "week-7",
+            "week-8",
+            "term2-2023",
+            "term2-2025",
+            "end-term-exam",
+            "quiz",
+            "live-session",
+            "project",
+            "term2-2024",
+            "term3-2022",
+            "activity-question",
+            "announcement",
+            "mock",
+            "week-10",
+            "practice-question",
+            "tds-project-one",
+            "term2-2022",
+            "discourse-forum",
+            "feedback",
+            "course-selection",
+            "lab-assignment",
+            "term1-2024",
+            "bonus-marks",
+            "lec-clarification",
+            "how-to",
+            "live-session-ta",
+            "practice-assignment"
+        ],
+        "topics": [
+            {
+                "id": 176285,
+                "title": "Week 1 graded assignment deadline?",
+                "fancy_title": "Week 1 graded assignment deadline?",
+                "slug": "week-1-graded-assignment-deadline",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 3,
+                "image_url": null,
+                "created_at": "2025-05-25T02:47:32.298Z",
+                "last_posted_at": "2025-05-25T03:52:52.628Z",
+                "bumped": true,
+                "bumped_at": "2025-05-25T03:52:52.628Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "operational",
+                    "term2-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 53,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 25148,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 176230,
+                "title": "Scores for week 1",
+                "fancy_title": "Scores for week 1",
+                "slug": "scores-for-week-1",
+                "posts_count": 3,
+                "reply_count": 0,
+                "highest_post_number": 3,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/d/cd00d094090dc4c050a9c4dbc6090fbcc0bde484_2_799x1024.jpeg",
+                "created_at": "2025-05-24T11:25:34.301Z",
+                "last_posted_at": "2025-05-24T14:25:10.562Z",
+                "bumped": true,
+                "bumped_at": "2025-05-24T14:25:10.562Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "term2-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 55,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "23f1000318",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 2588,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16665,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 15517,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 176234,
+                "title": "Ngrok week 2 q12",
+                "fancy_title": "Ngrok week 2 q12",
+                "slug": "ngrok-week-2-q12",
+                "posts_count": 4,
+                "reply_count": 2,
+                "highest_post_number": 4,
+                "image_url": null,
+                "created_at": "2025-05-24T11:50:58.622Z",
+                "last_posted_at": "2025-05-24T13:22:47.842Z",
+                "bumped": true,
+                "bumped_at": "2025-05-24T13:22:47.842Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "diploma-level",
+                    "term2-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 55,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "Jivraj",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 23837,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175677,
+                "title": "How/When the assignment score is displayed",
+                "fancy_title": "How/When the assignment score is displayed",
+                "slug": "how-when-the-assignment-score-is-displayed",
+                "posts_count": 3,
+                "reply_count": 0,
+                "highest_post_number": 3,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/6/d698347b98dc0b38c1a6908c148e385f826e6732_2_1024x398.png",
+                "created_at": "2025-05-20T12:18:04.236Z",
+                "last_posted_at": "2025-05-21T14:07:24.253Z",
+                "bumped": true,
+                "bumped_at": "2025-05-21T14:07:24.253Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "operational",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 69,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "24f3004165",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 31631,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 15658,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 42247,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175735,
+                "title": "How to opt out of TDS? I find it too difficult at this level",
+                "fancy_title": "How to opt out of TDS? I find it too difficult at this level",
+                "slug": "how-to-opt-out-of-tds-i-find-it-too-difficult-at-this-level",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": null,
+                "created_at": "2025-05-21T04:02:06.524Z",
+                "last_posted_at": "2025-05-21T13:35:21.878Z",
+                "bumped": true,
+                "bumped_at": "2025-05-21T13:35:21.878Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "course-selection",
+                    "diploma-level",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 75,
+                "like_count": 2,
+                "has_summary": false,
+                "last_poster_username": "HritikRoshan_HRM",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 35968,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster, Accepted Answer",
+                        "user_id": 15658,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175897,
+                "title": "Recorded Sessions for TDS",
+                "fancy_title": "Recorded Sessions for TDS",
+                "slug": "recorded-sessions-for-tds",
+                "posts_count": 3,
+                "reply_count": 0,
+                "highest_post_number": 3,
+                "image_url": null,
+                "created_at": "2025-05-21T09:43:37.819Z",
+                "last_posted_at": "2025-05-21T11:57:19.089Z",
+                "bumped": true,
+                "bumped_at": "2025-05-21T11:57:19.089Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "miscellaneous",
+                    "diploma-level",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 38,
+                "like_count": 2,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 19016,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster, Accepted Answer",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175282,
+                "title": "Barebones Summary of Week 1- Mind Map",
+                "fancy_title": "Barebones Summary of Week 1- Mind Map",
+                "slug": "barebones-summary-of-week-1-mind-map",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/a/0a9024b03a0e3faed98d14cf494ee60d6b64230d_2_1024x321.png",
+                "created_at": "2025-05-17T14:32:26.525Z",
+                "last_posted_at": "2025-05-20T03:21:08.190Z",
+                "bumped": true,
+                "bumped_at": "2025-05-20T03:21:08.190Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "extra-resources",
+                    "term2-2025",
+                    "week-1"
+                ],
+                "tags_descriptions": {},
+                "views": 65,
+                "like_count": 8,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 16271,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175427,
+                "title": "TDS Course Material - Suggested Rectifications",
+                "fancy_title": "TDS Course Material - Suggested Rectifications",
+                "slug": "tds-course-material-suggested-rectifications",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": null,
+                "created_at": "2025-05-19T08:13:02.644Z",
+                "last_posted_at": "2025-05-19T16:06:12.860Z",
+                "bumped": true,
+                "bumped_at": "2025-05-19T16:06:12.860Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "term2-2025",
+                    "tds"
+                ],
+                "tags_descriptions": {},
+                "views": 73,
+                "like_count": 2,
+                "has_summary": false,
+                "last_poster_username": "siddharthghosh",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": "latest single",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": 9033,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175459,
+                "title": "Google Cloud Platform",
+                "fancy_title": "Google Cloud Platform",
+                "slug": "google-cloud-platform",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/a/5ac0070e91309bd5a6854f3cac98262ea61e5f11_2_1024x576.png",
+                "created_at": "2025-05-19T11:46:24.823Z",
+                "last_posted_at": "2025-05-19T12:05:02.626Z",
+                "bumped": true,
+                "bumped_at": "2025-05-19T12:05:02.626Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "diploma-level",
+                    "term2-2025",
+                    "tds"
+                ],
+                "tags_descriptions": {},
+                "views": 55,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": "https://console.cloud.google.com/welcome/new?inv=1&invt=Abxziw",
+                "featured_link_root_domain": "google.com",
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 12994,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175178,
+                "title": "TDS-Can I drop this recourse with fee refund now?",
+                "fancy_title": "TDS-Can I drop this recourse with fee refund now?",
+                "slug": "tds-can-i-drop-this-recourse-with-fee-refund-now",
+                "posts_count": 3,
+                "reply_count": 1,
+                "highest_post_number": 3,
+                "image_url": null,
+                "created_at": "2025-05-16T06:16:13.800Z",
+                "last_posted_at": "2025-05-19T08:55:26.484Z",
+                "bumped": true,
+                "bumped_at": "2025-05-19T08:55:26.484Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 84,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "23f3004014",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": "latest",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": 25608,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 36519,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175379,
+                "title": "TDS-GA1-Submission",
+                "fancy_title": "TDS-GA1-Submission",
+                "slug": "tds-ga1-submission",
+                "posts_count": 4,
+                "reply_count": 1,
+                "highest_post_number": 4,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/4/14a2c40fe5cb7b94b8b4aeccb4b47b997ca77bae_2_1024x576.png",
+                "created_at": "2025-05-18T18:49:52.337Z",
+                "last_posted_at": "2025-05-19T06:45:25.618Z",
+                "bumped": true,
+                "bumped_at": "2025-05-19T06:45:25.618Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 70,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "23f1001065",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 25608,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 9033,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 21636,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 15552,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 174414,
+                "title": "When running this 'llm embed -c 'My email is 23f2001697@ds.study.iitm.ac.in' -m 3-small' this shows insufficient_quota but I have prompt the model just 2-3 times",
+                "fancy_title": "When running this &lsquo;llm embed -c &lsquo;My email is 23f2001697@ds.study.iitm.ac.in&rsquo; -m 3-small&rsquo; this shows insufficient_quota but I have prompt the model just 2-3 times",
+                "slug": "when-running-this-llm-embed-c-my-email-is-23f2001697-ds-study-iitm-ac-in-m-3-small-this-shows-insufficient-quota-but-i-have-prompt-the-model-just-2-3-times",
+                "posts_count": 3,
+                "reply_count": 0,
+                "highest_post_number": 3,
+                "image_url": null,
+                "created_at": "2025-05-13T13:13:53.210Z",
+                "last_posted_at": "2025-05-18T18:10:33.609Z",
+                "bumped": true,
+                "bumped_at": "2025-05-18T18:16:55.627Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 64,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "aruntiwari",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 20612,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 14803,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175287,
+                "title": "TDS - Doubts - Specific Points to be Covered in Sunday's Session",
+                "fancy_title": "TDS - Doubts - Specific Points to be Covered in Sunday&rsquo;s Session",
+                "slug": "tds-doubts-specific-points-to-be-covered-in-sundays-session",
+                "posts_count": 4,
+                "reply_count": 2,
+                "highest_post_number": 4,
+                "image_url": null,
+                "created_at": "2025-05-17T15:13:57.142Z",
+                "last_posted_at": "2025-05-18T08:58:29.543Z",
+                "bumped": true,
+                "bumped_at": "2025-05-18T08:58:29.543Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 59,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "23f3004014",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": "latest single",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": 25608,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175272,
+                "title": "Issue with validating the output of the GA1 question no 20 SQL: Average Order Value (0.75 marks)",
+                "fancy_title": "Issue with validating the output of the GA1 question no 20 SQL: Average Order Value (0.75 marks)",
+                "slug": "issue-with-validating-the-output-of-the-ga1-question-no-20-sql-average-order-value-0-75-marks",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/8/f87e5ed3dad54ec760ce07c8a01956c69d72d47c.png",
+                "created_at": "2025-05-17T12:49:34.037Z",
+                "last_posted_at": "2025-05-17T16:33:27.011Z",
+                "bumped": true,
+                "bumped_at": "2025-05-17T16:33:27.011Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "term2-2025",
+                    "graded-assignment"
+                ],
+                "tags_descriptions": {},
+                "views": 52,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "KaLyan_Dath_18",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 22838,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 6990,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 175219,
+                "title": "Increasing my qouta for TDS Openai Api Key",
+                "fancy_title": "Increasing my qouta for TDS Openai Api Key",
+                "slug": "increasing-my-qouta-for-tds-openai-api-key",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": null,
+                "created_at": "2025-05-16T16:59:07.705Z",
+                "last_posted_at": "2025-05-17T12:09:21.324Z",
+                "bumped": true,
+                "bumped_at": "2025-05-17T12:09:21.324Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "extra-resources",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 78,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 24773,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 174255,
+                "title": "Getting error AI PIPE",
+                "fancy_title": "Getting error AI PIPE",
+                "slug": "getting-error-ai-pipe",
+                "posts_count": 7,
+                "reply_count": 3,
+                "highest_post_number": 7,
+                "image_url": null,
+                "created_at": "2025-05-11T11:52:06.454Z",
+                "last_posted_at": "2025-05-17T08:11:34.206Z",
+                "bumped": true,
+                "bumped_at": "2025-05-17T08:11:34.206Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "operational",
+                    "diploma-level",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 101,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "Nitish007",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 21636,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 22472,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 22623,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 13069,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 174594,
+                "title": "TDS Live Session recording",
+                "fancy_title": "TDS Live Session recording",
+                "slug": "tds-live-session-recording",
+                "posts_count": 4,
+                "reply_count": 2,
+                "highest_post_number": 4,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/f/3fa61fb5eac6c88e0b12261fa3bd35397e69e4a9_2_1024x763.png",
+                "created_at": "2025-05-14T12:29:24.393Z",
+                "last_posted_at": "2025-05-14T12:47:15.796Z",
+                "bumped": true,
+                "bumped_at": "2025-05-14T12:47:15.796Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "term2-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 63,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "24f1001758",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 43586,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 29977,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 174384,
+                "title": "Request for Session Recordings \u2013 10th & 11th May (Tools in Data Science)",
+                "fancy_title": "Request for Session Recordings \u2013 10th &amp; 11th May (Tools in Data Science)",
+                "slug": "request-for-session-recordings-10th-11th-may-tools-in-data-science",
+                "posts_count": 4,
+                "reply_count": 2,
+                "highest_post_number": 4,
+                "image_url": null,
+                "created_at": "2025-05-13T06:09:43.017Z",
+                "last_posted_at": "2025-05-14T12:44:10.985Z",
+                "bumped": true,
+                "bumped_at": "2025-05-14T12:44:10.985Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "miscellaneous",
+                    "extra-resources",
+                    "guidelines",
+                    "term2-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 63,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "24f1001758",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 15790,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 29977,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 174447,
+                "title": "Graded assignment week 1",
+                "fancy_title": "Graded assignment week 1",
+                "slug": "graded-assignment-week-1",
+                "posts_count": 1,
+                "reply_count": 0,
+                "highest_post_number": 1,
+                "image_url": null,
+                "created_at": "2025-05-14T05:03:29.479Z",
+                "last_posted_at": "2025-05-14T05:03:29.662Z",
+                "bumped": true,
+                "bumped_at": "2025-05-14T05:03:29.662Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "operational",
+                    "diploma-level",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 48,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "24F2000970_KARTIK_JA",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": "latest single",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": 31290,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 174380,
+                "title": "15 May Class Clashing with MLF Class",
+                "fancy_title": "15 May Class Clashing with MLF Class",
+                "slug": "15-may-class-clashing-with-mlf-class",
+                "posts_count": 4,
+                "reply_count": 2,
+                "highest_post_number": 4,
+                "image_url": null,
+                "created_at": "2025-05-13T05:26:50.068Z",
+                "last_posted_at": "2025-05-13T06:02:14.334Z",
+                "bumped": true,
+                "bumped_at": "2025-05-13T06:02:14.334Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "miscellaneous",
+                    "operational",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 45,
+                "like_count": 1,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 12602,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 161083,
+                "title": "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]",
+                "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]",
+                "slug": "ga1-development-tools-discussion-thread-tds-jan-2025",
+                "posts_count": 131,
+                "reply_count": 80,
+                "highest_post_number": 144,
+                "image_url": null,
+                "created_at": "2025-01-02T02:30:03.518Z",
+                "last_posted_at": "2025-05-13T04:00:05.963Z",
+                "bumped": true,
+                "bumped_at": "2025-05-10T15:17:09.018Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": true,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "announcement",
+                    "term1-2025",
+                    "week-1",
+                    "graded-assignment"
+                ],
+                "tags_descriptions": {},
+                "views": 1598,
+                "like_count": 40,
+                "has_summary": true,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 9419,
+                        "primary_group_id": 54,
+                        "flair_group_id": 54
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 17483,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 12220,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 7742,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 173555,
+                "title": "Guide me how to complete TDS course",
+                "fancy_title": "Guide me how to complete TDS course",
+                "slug": "guide-me-how-to-complete-tds-course",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": null,
+                "created_at": "2025-05-02T12:27:03.753Z",
+                "last_posted_at": "2025-05-04T03:25:40.428Z",
+                "bumped": true,
+                "bumped_at": "2025-05-04T03:25:40.428Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "diploma-level",
+                    "guidelines",
+                    "term2-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 138,
+                "like_count": 2,
+                "has_summary": false,
+                "last_poster_username": "carlton",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 1351,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 171477,
+                "title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+                "fancy_title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+                "slug": "project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present",
+                "posts_count": 12,
+                "reply_count": 8,
+                "highest_post_number": 13,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/0/f001f7be7e533353ac4526f1cf9d82d4211ea6e1_2_1024x393.png",
+                "created_at": "2025-04-01T03:38:04.214Z",
+                "last_posted_at": "2025-04-29T15:19:06.622Z",
+                "bumped": true,
+                "bumped_at": "2025-04-29T15:19:06.622Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "term1-2025",
+                    "tds-project-one"
+                ],
+                "tags_descriptions": {},
+                "views": 176,
+                "like_count": 3,
+                "has_summary": false,
+                "last_poster_username": "Jivraj",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 15817,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster, Accepted Answer",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 17654,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 32407,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 173172,
+                "title": "URGENT ATTN REQ: technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+                "fancy_title": "URGENT ATTN REQ: technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+                "slug": "urgent-attn-req-technical-discrepancy-and-inconsistency-in-the-evaluation-scripts-of-graded-assignment-and-project-2",
+                "posts_count": 30,
+                "reply_count": 25,
+                "highest_post_number": 32,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/1/514ac690e9a0d891497501d503827232690f2745.png",
+                "created_at": "2025-04-21T12:06:38.276Z",
+                "last_posted_at": "2025-04-29T15:17:42.651Z",
+                "bumped": true,
+                "bumped_at": "2025-04-29T15:17:42.651Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "diploma-level"
+                ],
+                "tags_descriptions": {},
+                "views": 252,
+                "like_count": 6,
+                "has_summary": false,
+                "last_poster_username": "Jivraj",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 18074,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 17649,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 13078,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 160097,
+                "title": "My Feedback for this Course",
+                "fancy_title": "My Feedback for this Course",
+                "slug": "my-feedback-for-this-course",
+                "posts_count": 5,
+                "reply_count": 1,
+                "highest_post_number": 5,
+                "image_url": null,
+                "created_at": "2024-12-23T10:59:36.850Z",
+                "last_posted_at": "2025-04-29T12:31:33.572Z",
+                "bumped": true,
+                "bumped_at": "2025-04-29T12:31:33.572Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "miscellaneous"
+                ],
+                "tags_descriptions": {},
+                "views": 179,
+                "like_count": 3,
+                "has_summary": false,
+                "last_poster_username": "23f1001947",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": "latest",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": 21929,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 29417,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 17759,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 173347,
+                "title": "Regarding Scores of TDS",
+                "fancy_title": "Regarding Scores of TDS",
+                "slug": "regarding-scores-of-tds",
+                "posts_count": 11,
+                "reply_count": 8,
+                "highest_post_number": 11,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/b/7b1acb1396ff193e243542c9ddacf4291d7e6d88.png",
+                "created_at": "2025-04-25T11:17:34.092Z",
+                "last_posted_at": "2025-04-28T06:51:26.075Z",
+                "bumped": true,
+                "bumped_at": "2025-04-28T06:51:26.075Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification",
+                    "diploma-level",
+                    "term1-2025"
+                ],
+                "tags_descriptions": {},
+                "views": 129,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "23f2004476",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": "latest",
+                        "description": "Original Poster, Most Recent Poster, Accepted Answer",
+                        "user_id": 21754,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 169029,
+                "title": "Project 2 - TDS Solver - Discussion Thread",
+                "fancy_title": "Project 2 - TDS Solver - Discussion Thread",
+                "slug": "project-2-tds-solver-discussion-thread",
+                "posts_count": 690,
+                "reply_count": 415,
+                "highest_post_number": 715,
+                "image_url": null,
+                "created_at": "2025-03-03T03:42:18.928Z",
+                "last_posted_at": "2025-04-25T17:08:56.564Z",
+                "bumped": true,
+                "bumped_at": "2025-04-25T17:08:56.564Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "announcement",
+                    "term1-2025",
+                    "tds-project-2"
+                ],
+                "tags_descriptions": {},
+                "views": 4489,
+                "like_count": 478,
+                "has_summary": true,
+                "last_poster_username": "Algsoch",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 9419,
+                        "primary_group_id": 54,
+                        "flair_group_id": 54
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 18297,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 13078,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 15651,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 35950,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 173247,
+                "title": "Course experience and farewell post",
+                "fancy_title": "Course experience and farewell post",
+                "slug": "course-experience-and-farewell-post",
+                "posts_count": 7,
+                "reply_count": 1,
+                "highest_post_number": 7,
+                "image_url": null,
+                "created_at": "2025-04-23T09:44:59.574Z",
+                "last_posted_at": "2025-04-24T09:56:39.568Z",
+                "bumped": true,
+                "bumped_at": "2025-04-24T10:03:57.755Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "miscellaneous"
+                ],
+                "tags_descriptions": {},
+                "views": 233,
+                "like_count": 39,
+                "has_summary": false,
+                "last_poster_username": "23f1002382",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 16002,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 13078,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 7034,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 18297,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 173175,
+                "title": "URGENT ATTN REQ: Another technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+                "fancy_title": "URGENT ATTN REQ: Another technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+                "slug": "urgent-attn-req-another-technical-discrepancy-and-inconsistency-in-the-evaluation-scripts-of-graded-assignment-and-project-2",
+                "posts_count": 2,
+                "reply_count": 0,
+                "highest_post_number": 2,
+                "image_url": null,
+                "created_at": "2025-04-21T13:38:36.775Z",
+                "last_posted_at": "2025-04-23T10:03:05.001Z",
+                "bumped": true,
+                "bumped_at": "2025-04-23T10:03:05.001Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "diploma-level"
+                ],
+                "tags_descriptions": {},
+                "views": 69,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "Saransh_Saini",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": true,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 18074,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster, Accepted Answer",
+                        "user_id": 13078,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            },
+            {
+                "id": 173208,
+                "title": "TDS Total discrepancy",
+                "fancy_title": "TDS Total discrepancy",
+                "slug": "tds-total-discrepancy",
+                "posts_count": 3,
+                "reply_count": 0,
+                "highest_post_number": 3,
+                "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/3/3318e860ecaa62ae78993596abd62604ed983cea_2_458x1024.jpeg",
+                "created_at": "2025-04-22T11:17:17.211Z",
+                "last_posted_at": "2025-04-23T09:23:30.454Z",
+                "bumped": true,
+                "bumped_at": "2025-04-23T09:23:30.454Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [
+                    "clarification"
+                ],
+                "tags_descriptions": {},
+                "views": 87,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "Saransh_Saini",
+                "category_id": 34,
+                "pinned_globally": false,
+                "featured_link": null,
+                "has_accepted_answer": false,
+                "can_vote": false,
+                "posters": [
+                    {
+                        "extras": null,
+                        "description": "Original Poster",
+                        "user_id": 26983,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": null,
+                        "description": "Frequent Poster",
+                        "user_id": 16094,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    },
+                    {
+                        "extras": "latest",
+                        "description": "Most Recent Poster",
+                        "user_id": 13078,
+                        "primary_group_id": 294,
+                        "flair_group_id": 294
+                    }
+                ]
+            }
+        ]
+    }
+}
