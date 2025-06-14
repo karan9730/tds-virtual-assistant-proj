@@ -10,7 +10,7 @@ The TDS Virtual Assistant Project is a FastAPI application designed to process u
 ## Setup Instructions
 1. **Clone the repository**:
    ```
-   git clone [<repository-url>](https://github.com/karan9730/tds-virtual-assistant-proj)
+   git clone https://github.com/karan9730/tds-virtual-assistant-proj
    cd tds-virtual-assistant-proj
    ```
 
